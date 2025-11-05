@@ -1,0 +1,17 @@
+{
+    "6416418": "DROP:EXTENSION:8158",
+    "6416419": "DROP:EXTENSION:bmp",
+    "6416420": "DROP:EXTENSION:exe",
+    "6416421": "DROP:EXTENSION:hta",
+    "6416422": "DROP:EXTENSION:tmp",
+    "6416423": "DROP:EXTENSION:txt",
+    "6416424": "DROP:TYPE:a_/usr/bin/env_python_script_executable_(binary_data)",
+    "6416425": "DROP:TYPE:ascii_text,_with_crlf_line_terminators",
+    "6416426": "DROP:TYPE:ascii_text,_with_very_long_lines,_with_no_line_terminators",
+    "6416427": "DROP:TYPE:b.out_overlay_separate_pure_segmented_executable_v2.3_v3.0_186_286_386_large_text_large_data_huge_objects_enabled",
+    "6416428": "DROP:TYPE:data",
+    "6416429": "DROP:TYPE:empty",
+    "6416430": "DROP:TYPE:html_document,_utf-8_unicode_text,_with_very_long_lines,_with_crlf_line_terminators",
+    "6416431": "DROP:TYPE:pc_bitmap,_windows_3.x_format,_1024_x_768_x_32",
+    "6416432": "DROP:TYPE:pe32_executable_(gui)_intel_80386,_for_ms_windows"
+}
